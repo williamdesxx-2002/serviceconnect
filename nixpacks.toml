@@ -1,0 +1,5 @@
+[phases.setup]
+aptPkgs = ["php82"]
+
+[variables]
+PHP_VERSION = "8.2"
